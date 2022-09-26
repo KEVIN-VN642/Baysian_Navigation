@@ -14,7 +14,7 @@ library(mvtnorm)
 library(coda)
 library(tmvtnorm)
 require(ggmap)
-register_google(key="AIzaSyBT-E0y_XjuxyIiwHp5rX3u_amsZiEYJ2U",write = TRUE)
+register_google(key="mykey",write = TRUE)
 ```
 
 ## 1. Introduction
