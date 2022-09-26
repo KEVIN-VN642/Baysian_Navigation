@@ -3,7 +3,7 @@ library(coda)
 library(tmvtnorm)
 require(ggmap)
 
-register_google(key="AIzaSyBT-E0y_XjuxyIiwHp5rX3u_amsZiEYJ2U",write = TRUE)
+register_google(key="mykey",write = TRUE)
 
 #my location: 50.443492, -104.510223 (Cosco)  :lat/long
 #first point: Co-op Refinery: 50.484095, -104.579288:   lat/long
